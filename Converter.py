@@ -7,7 +7,7 @@ def calc():
     output = float(num) * 1.61
     output2.set(output)
 
-
+# Initializing main window application.
 root = tk.Tk()
 root.geometry('300x150')
 
